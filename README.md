@@ -25,7 +25,7 @@ full stack devloper in<br>java/python <br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
-**aryankale082-crypto/aryankale082-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iamaryan7/iamaryan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
